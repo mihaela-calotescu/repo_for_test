@@ -5,14 +5,11 @@
     <shortdesc><image href="../test/Lilac.jpg" id="image_e1n_tpv_wxb"/></shortdesc>
     <taskbody>
         <context>
-            <topic id="id_qxd_bqv_wxb" conref="../test/copyright.dita">
-                <title/>
-            </topic>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd><image href="Lilac.jpg" id="image_umg_xpv_wxb"/></cmd>
+                <cmd></cmd>
             </step>
         </steps>
     </taskbody>
